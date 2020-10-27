@@ -27,7 +27,7 @@ version: 0.2
 #  # build-matrix:
 #  # build-graph:
 #
-#phases:
+phases:
 #  install:
 #    run-as: Linux-user-name
 #    runtime-versions:
